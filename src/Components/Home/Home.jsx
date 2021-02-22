@@ -1,6 +1,6 @@
 import React from 'react';
 import DashbordCardPanel from './../DashbordCardPannel/cards';
-
+import UserData from './../Users/UserFunctions';
 
 export default function Home() {
   return (
@@ -13,51 +13,11 @@ export default function Home() {
 
     <section className="content-header">
       <div className="container-fluid"> 
-      <div className="row">     
-        <div className="col-md-6">
-          
-        </div> 
-        <div className="col-md-6">
-         
-        </div>   
-        </div>    
+       <UserData/>
       </div>
     </section>
-
-    <div className="row">
-
-      <div className="col-md-6">
-
-        <section className="content">
-          <div className="container-fluid">
-            
-          </div>
-        </section>
-
-      </div>
-
-
-      <div className="col-md-6">
-
-        <section className="content">
-          <div className="container-fluid">
-            
-          </div>
-        </section>
-
-      </div>
-
-    </div>
-
-   
-
 
     
-    <section className="content">
-        <div className="container-fluid">
-       
-        </div>
-    </section>
 </div>
   );
 }
