@@ -50,7 +50,7 @@ Device with,
 ```
 Clone the repository
 ```
-git clone https://github.com/DInuwan97/opencast_studio.git
+git clone https://github.com/DInuwan97/opencats_admin_pannel.git
 ```
 Install npm
 ```
