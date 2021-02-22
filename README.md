@@ -3,8 +3,6 @@ Opencast Studio - Admin Pannel
 
 [![Build Status](https://travis-ci.com/elan-ev/opencast-studio.svg?branch=master)
 ](https://travis-ci.com/elan-ev/opencast-studio)
-[![MIT license](https://img.shields.io/github/license/elan-ev/opencast-studio)
-](https://github.com/elan-ev/opencast-studio/blob/master/LICENSE)
 
 <br />
 <p align="center">
